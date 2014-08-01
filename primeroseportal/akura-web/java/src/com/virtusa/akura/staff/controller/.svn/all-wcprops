@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller
+END
+StaffQualificationsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/154/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffQualificationsController.java
+END
+StaffExtraCurricularController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffExtraCurricularController.java
+END
+StaffPastServiceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffPastServiceController.java
+END
+StaffDetailsController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffDetailsController.java
+END
+ClassTeacherController.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/akura/code/!svn/ver/154/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/ClassTeacherController.java
+END
+StaffDetailsLoadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffDetailsLoadController.java
+END
+StaffSearchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffSearchController.java
+END
+StaffLeaveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/177/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/StaffLeaveController.java
+END
+SectionHeadAllocationController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/akura/code/!svn/ver/154/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/SectionHeadAllocationController.java
+END
+LeaveApprovalProcessController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/154/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/LeaveApprovalProcessController.java
+END
+SubjectTeacherAssignController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/154/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/controller/SubjectTeacherAssignController.java
+END

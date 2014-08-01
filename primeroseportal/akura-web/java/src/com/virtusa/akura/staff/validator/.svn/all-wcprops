@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator
+END
+StaffDetailsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffDetailsValidator.java
+END
+StaffPastServiceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffPastServiceValidator.java
+END
+LeaveApprovalProcessValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/akura/code/!svn/ver/136/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/LeaveApprovalProcessValidator.java
+END
+SectionHeadValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/SectionHeadValidator.java
+END
+StaffLeaveValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffLeaveValidator.java
+END
+StaffProfessionalValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffProfessionalValidator.java
+END
+StaffEducationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffEducationValidator.java
+END
+StaffCategoryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffCategoryValidator.java
+END
+StaffDepartureDetailsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/staff/validator/StaffDepartureDetailsValidator.java
+END

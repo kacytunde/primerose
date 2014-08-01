@@ -1,0 +1,135 @@
+10
+
+dir
+197
+http://svn.code.sf.net/p/akura/code/trunk/akura
+http://svn.code.sf.net/p/akura/code
+
+
+
+2013-04-24T05:28:07.185748Z
+197
+gangaabeyrathne
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+d85e50d0-b1f8-4b8c-af2b-8dc4de9ebe76
+
+FAQ.txt
+file
+
+
+
+
+2013-10-27T01:27:21.158000Z
+affe6cfd8ded56f21d033c78ef350ae6
+2013-04-24T05:28:07.185748Z
+197
+gangaabeyrathne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6311
+
+Releases
+dir
+
+Software
+dir
+
+akura-web
+dir
+
+attendance-service
+dir
+
+auditing-service
+dir
+
+common-api
+dir
+
+common-config
+dir
+
+common-service
+dir
+
+common-util
+dir
+
+readme.txt
+file
+
+
+
+
+2013-10-27T01:29:19.218000Z
+0faaa171eb3725929042c8e67e58cc1a
+2013-04-24T05:28:07.185748Z
+197
+gangaabeyrathne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12422
+
+reporting-service
+dir
+
+school-service
+dir
+
+staff-service
+dir
+
+student-service
+dir
+

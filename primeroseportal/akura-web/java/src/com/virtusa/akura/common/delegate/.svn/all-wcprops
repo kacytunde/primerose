@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/delegate
+END
+SystemUserDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/delegate/SystemUserDelegate.java
+END
+LoginDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p/akura/code/!svn/ver/75/trunk/akura/akura-web/java/src/com/virtusa/akura/common/delegate/LoginDelegate.java
+END
+UserDefinedRoleLoginDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/src/com/virtusa/akura/common/delegate/UserDefinedRoleLoginDelegate.java
+END

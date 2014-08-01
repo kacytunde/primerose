@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller
+END
+ReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/ReportController.java
+END
+BestStudentAttendanceReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/akura/code/!svn/ver/175/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/BestStudentAttendanceReportController.java
+END
+ClassWiseStudentReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/ClassWiseStudentReportController.java
+END
+GenerateTeacherWiseAttendanceReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenerateTeacherWiseAttendanceReportController.java
+END
+PerDayStaffCategoryWiseAttendanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/PerDayStaffCategoryWiseAttendanceController.java
+END
+GenerateEarlyLateAttendeesStudentReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenerateEarlyLateAttendeesStudentReportController.java
+END
+GenerateStudentWiseSwipInOutReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenerateStudentWiseSwipInOutReportController.java
+END
+ClassWiseStudentDisciplinaryActionController.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/ClassWiseStudentDisciplinaryActionController.java
+END
+GenerateStudentWiseAttendanceReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenerateStudentWiseAttendanceReportController.java
+END
+PerDayClassWiseAttendanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/PerDayClassWiseAttendanceController.java
+END
+CRExamAbsentListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/CRExamAbsentListController.java
+END
+AnnualStudentAttendanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/AnnualStudentAttendanceController.java
+END
+CRStudentPerformanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/CRStudentPerformanceController.java
+END
+CustomStaffReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/CustomStaffReportController.java
+END
+PrizeTopListController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/PrizeTopListController.java
+END
+StudentSummaryReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/StudentSummaryReportController.java
+END
+StudentReportCardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/StudentReportCardController.java
+END
+StaffProfileReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/StaffProfileReportController.java
+END
+StudentScholarshipReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/StudentScholarshipReportController.java
+END
+GenarateExamResultsReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenarateExamResultsReportController.java
+END
+StudentSpecialEventAttendanceReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/StudentSpecialEventAttendanceReportController.java
+END
+ClassWiseStudentMarksSheetController.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/ClassWiseStudentMarksSheetController.java
+END
+CRStudentExtraCurricularController.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/CRStudentExtraCurricularController.java
+END
+StudentPerformanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/StudentPerformanceController.java
+END
+GenarateTeacherWisePresentAndAbsentDaysReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenarateTeacherWisePresentAndAbsentDaysReportController.java
+END
+CRAverageTermMarkClassWiseController.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/p/akura/code/!svn/ver/175/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/CRAverageTermMarkClassWiseController.java
+END
+GenerateTeacherEarlyLateAttendiesReportController.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/controller/GenerateTeacherEarlyLateAttendiesReportController.java
+END

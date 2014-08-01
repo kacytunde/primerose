@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/akura/code/!svn/ver/180/trunk/akura/akura-web/java/config/spring-beans
+END
+akura-security-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/akura/code/!svn/ver/180/trunk/akura/akura-web/java/config/spring-beans/akura-security-beans.xml
+END
+akura-web-beans-main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/akura/code/!svn/ver/180/trunk/akura/akura-web/java/config/spring-beans/akura-web-beans-main.xml
+END

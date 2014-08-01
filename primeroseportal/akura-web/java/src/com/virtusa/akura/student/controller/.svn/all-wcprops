@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller
+END
+StudentTermMarkController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentTermMarkController.java
+END
+StudentSubjectController.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentSubjectController.java
+END
+CoCurricularActivityController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/akura/code/!svn/ver/178/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/CoCurricularActivityController.java
+END
+MessageToTeacherControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/MessageToTeacherControler.java
+END
+ParentsChildsControler.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/ParentsChildsControler.java
+END
+StudentDetailsLoadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentDetailsLoadController.java
+END
+PrefectTypeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/akura/code/!svn/ver/153/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/PrefectTypeController.java
+END
+StudentDetailController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentDetailController.java
+END
+StudentDisciplineController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/153/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentDisciplineController.java
+END
+WarningLevelController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/WarningLevelController.java
+END
+ExamMarksController.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/178/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/ExamMarksController.java
+END
+StudentTerminateController.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/akura/code/!svn/ver/153/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentTerminateController.java
+END
+StudentParentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentParentController.java
+END
+StudentSearchController.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/akura/code/!svn/ver/178/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentSearchController.java
+END
+StudentTemporaryLeaveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/akura/code/!svn/ver/153/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentTemporaryLeaveController.java
+END
+StudentAttendenceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentAttendenceController.java
+END
+MessageBoardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/153/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/MessageBoardController.java
+END
+StudentAcademicLifeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/akura/code/!svn/ver/153/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentAcademicLifeController.java
+END
+StudentSubTermMarkController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/75/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentSubTermMarkController.java
+END
+RejoinSuspendedStudentController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/RejoinSuspendedStudentController.java
+END
+StudentClassController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/178/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentClassController.java
+END
+StudentLeaveController.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/178/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentLeaveController.java
+END
+FaithLifeRatingController.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/FaithLifeRatingController.java
+END
+StudentAssignmentMarkController.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/akura/code/!svn/ver/178/trunk/akura/akura-web/java/src/com/virtusa/akura/student/controller/StudentAssignmentMarkController.java
+END

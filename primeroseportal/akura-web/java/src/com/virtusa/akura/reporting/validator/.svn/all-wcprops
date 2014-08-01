@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/akura/code/!svn/ver/175/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator
+END
+CRStudentPerformanceBetweenValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRStudentPerformanceBetweenValidator.java
+END
+PerDayClassWiseAttendanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/PerDayClassWiseAttendanceValidator.java
+END
+StudentWiseAttendanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/StudentWiseAttendanceValidator.java
+END
+EarlyComersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/EarlyComersValidator.java
+END
+LateComersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/LateComersValidator.java
+END
+PerDayStaffCategoryWiseAttendanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/PerDayStaffCategoryWiseAttendanceValidator.java
+END
+ClassWiseStudentReportTemplateValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/ClassWiseStudentReportTemplateValidator.java
+END
+TeacherEarlyLateAttendeesValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/TeacherEarlyLateAttendeesValidator.java
+END
+CRStudentDisciplinaryActionGeneralValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRStudentDisciplinaryActionGeneralValidator.java
+END
+EarlyLeaversValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/EarlyLeaversValidator.java
+END
+CRStudentDisciplinaryActionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRStudentDisciplinaryActionValidator.java
+END
+StudentSummaryReportTemplateValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/StudentSummaryReportTemplateValidator.java
+END
+StudentSpecialEventAttendanceReportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/p/akura/code/!svn/ver/32/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/StudentSpecialEventAttendanceReportValidator.java
+END
+PrizeTopListValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/PrizeTopListValidator.java
+END
+CRStudentPerformanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/akura/code/!svn/ver/32/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRStudentPerformanceValidator.java
+END
+CRExamAbsentListValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/p/akura/code/!svn/ver/32/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRExamAbsentListValidator.java
+END
+GradeWiseBestStudentAttendanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/p/akura/code/!svn/ver/155/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/GradeWiseBestStudentAttendanceValidator.java
+END
+ExamResultsReportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/ExamResultsReportValidator.java
+END
+GradeWiseStudentRankValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/GradeWiseStudentRankValidator.java
+END
+SubjectPrizeTopListValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/SubjectPrizeTopListValidator.java
+END
+TeacherWiseAttendanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/TeacherWiseAttendanceValidator.java
+END
+TeacherWisePresentAndAbsentDaysValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/TeacherWisePresentAndAbsentDaysValidator.java
+END
+LateLeaversValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/LateLeaversValidator.java
+END
+DisciplinaryActionClassWiseValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/DisciplinaryActionClassWiseValidator.java
+END
+CRAverageTermMarkClassWiseValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/akura/code/!svn/ver/75/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRAverageTermMarkClassWiseValidator.java
+END
+CRStudentPerformanceGreaterValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/32/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRStudentPerformanceGreaterValidator.java
+END
+StudentWiseSwipeInOutAttendanceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/p/akura/code/!svn/ver/32/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/StudentWiseSwipeInOutAttendanceValidator.java
+END
+CRStudentExtraCurricularValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CRStudentExtraCurricularValidator.java
+END
+ClassWiseStudentMarksSheetValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/p/akura/code/!svn/ver/75/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/ClassWiseStudentMarksSheetValidator.java
+END
+StudentScholarshipReportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/p/akura/code/!svn/ver/175/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/StudentScholarshipReportValidator.java
+END
+StaffProfileReportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/175/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/StaffProfileReportValidator.java
+END
+CustomStaffReportControllerValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/CustomStaffReportControllerValidator.java
+END
+AnnualStudentAttendanceTemplateValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/p/akura/code/!svn/ver/136/trunk/akura/akura-web/java/src/com/virtusa/akura/reporting/validator/AnnualStudentAttendanceTemplateValidator.java
+END

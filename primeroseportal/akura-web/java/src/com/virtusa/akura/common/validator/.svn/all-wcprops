@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/akura/code/!svn/ver/174/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator
+END
+WorkingSegmentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/WorkingSegmentValidator.java
+END
+CivilStatusValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/CivilStatusValidator.java
+END
+UserPasswordValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/UserPasswordValidator.java
+END
+ProfessionalQualificationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ProfessionalQualificationValidator.java
+END
+SubTermValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SubTermValidator.java
+END
+AssignmentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/AssignmentValidator.java
+END
+ExamSubjectValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ExamSubjectValidator.java
+END
+DistrictValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/DistrictValidator.java
+END
+RaceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/RaceValidator.java
+END
+StaffLeaveTypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/StaffLeaveTypeValidator.java
+END
+SportCategoryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SportCategoryValidator.java
+END
+MethodOfTravelValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/MethodOfTravelValidator.java
+END
+ClubSocietyValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ClubSocietyValidator.java
+END
+StaffServiceCategoryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/StaffServiceCategoryValidator.java
+END
+GradingValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/GradingValidator.java
+END
+GradeSubjectValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/GradeSubjectValidator.java
+END
+CountryValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/174/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/CountryValidator.java
+END
+GradeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/GradeValidator.java
+END
+HolidayValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/HolidayValidator.java
+END
+EducationalQualificationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/p/akura/code/!svn/ver/107/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/EducationalQualificationValidator.java
+END
+ForgotPasswordValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ForgotPasswordValidator.java
+END
+StudyMediumValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/StudyMediumValidator.java
+END
+ExamValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ExamValidator.java
+END
+HouseValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/HouseValidator.java
+END
+ScholarshipValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ScholarshipValidator.java
+END
+UserSecurityQuestionsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/UserSecurityQuestionsValidator.java
+END
+SchoolClassValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SchoolClassValidator.java
+END
+SectionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SectionValidator.java
+END
+AppointmentClassificationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/AppointmentClassificationValidator.java
+END
+BloodGroupValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/BloodGroupValidator.java
+END
+AppointmentNatureValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/AppointmentNatureValidator.java
+END
+PositionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/PositionValidator.java
+END
+CityValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/akura/code/!svn/ver/156/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/CityValidator.java
+END
+SubjectValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SubjectValidator.java
+END
+TermValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/TermValidator.java
+END
+ViewAuditDetailsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ViewAuditDetailsValidator.java
+END
+PublicationValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/PublicationValidator.java
+END
+SportSubValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SportSubValidator.java
+END
+DonationTypeValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/DonationTypeValidator.java
+END
+SecurityQuestionsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SecurityQuestionsValidator.java
+END
+ProvinceValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ProvinceValidator.java
+END
+SeminarValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/akura/code/!svn/ver/10/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SeminarValidator.java
+END
+ReligionValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ReligionValidator.java
+END
+SpecialEventsValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SpecialEventsValidator.java
+END
+SportValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/SportValidator.java
+END
+ForgotUserNameValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/ForgotUserNameValidator.java
+END
+NationalityValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/NationalityValidator.java
+END
+EmploymentStatusValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/EmploymentStatusValidator.java
+END
+StreamValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/common/validator/StreamValidator.java
+END

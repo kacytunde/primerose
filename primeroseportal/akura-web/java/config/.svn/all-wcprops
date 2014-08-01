@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/config
+END
+systemConfig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/akura/code/!svn/ver/151/trunk/akura/akura-web/java/config/systemConfig.properties
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/config/application.properties
+END
+reportTemplate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/akura/code/!svn/ver/193/trunk/akura/akura-web/java/config/reportTemplate.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/akura/code/!svn/ver/118/trunk/akura/akura-web/java/config/log4j.xml
+END
+header.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/akura/code/!svn/ver/75/trunk/akura/akura-web/java/config/header.properties
+END
+email.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/config/email.properties
+END
+audit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/config/audit.properties
+END
+validatorExpression.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/config/validatorExpression.properties
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/akura/code/!svn/ver/76/trunk/akura/akura-web/java/config/config.properties
+END

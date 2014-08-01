@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/user/validator
+END
+SystemUserValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/user/validator/SystemUserValidator.java
+END
+UserRoleValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/akura/code/!svn/ver/95/trunk/akura/akura-web/java/src/com/virtusa/akura/user/validator/UserRoleValidator.java
+END

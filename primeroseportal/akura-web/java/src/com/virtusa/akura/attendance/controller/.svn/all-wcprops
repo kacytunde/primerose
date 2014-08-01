@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p/akura/code/!svn/ver/173/trunk/akura/akura-web/java/src/com/virtusa/akura/attendance/controller
+END
+DailyAttendanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/attendance/controller/DailyAttendanceController.java
+END
+SpecialEventsAttendanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/attendance/controller/SpecialEventsAttendanceController.java
+END
+AttendanceDashboardController.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/p/akura/code/!svn/ver/173/trunk/akura/akura-web/java/src/com/virtusa/akura/attendance/controller/AttendanceDashboardController.java
+END
+TeacherAttendanceController.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/p/akura/code/!svn/ver/130/trunk/akura/akura-web/java/src/com/virtusa/akura/attendance/controller/TeacherAttendanceController.java
+END
